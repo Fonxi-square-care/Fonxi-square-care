@@ -1,0 +1,7 @@
+{
+  "name": "Fonxi Studio AI",
+  "description": "Professional e-commerce product modeling and editing studio powered by Gemini 2.5 Flash Image. Generate high-quality modeling shots and perform instant AI edits on your products.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
